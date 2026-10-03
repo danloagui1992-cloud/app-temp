@@ -1,2 +1,5 @@
 secretos.py
 venv/
+
+*.jpg
+app.*
